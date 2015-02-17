@@ -22,3 +22,7 @@ group :development, :test do
   gem 'spring'
 end
 
+group :assets do
+	gem 'bootstrap-sass', '~> 3.3.3'
+end
+
